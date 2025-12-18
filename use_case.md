@@ -1,4 +1,4 @@
-# Use Case: Remote Blood Pressure Monitoring Mini-Pipeline (Primary Care)
+Remote Blood Pressure Monitoring Mini-Pipeline for a Primary Care Clinic
 
 ## Problem statement
 Primary care clinics often ask patients with hypertension to measure blood pressure at home. A common challenge is that readings come in inconsistently (texts, phone calls, paper logs), and clinic staff can’t quickly identify which patients need follow-up. This project designs a simple cloud pipeline that collects daily readings, stores them safely, flags risky patterns, and provides a daily summary for clinic staff.
