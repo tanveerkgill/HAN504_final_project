@@ -1,4 +1,4 @@
-# HAN504_final_project
+# HHA504_final_project
 Instructions for assignment:
 
 This project uses Azure services to construct a small, practical healthcare cloud system (with analogies to GCP and OCI, which were also discussed in the course). The objective is to provide a working end-to-end pipeline that incorporates computation, storage, a controlled database, and an analytics component while adhering to the architectural patterns that have been practiced all semester.
